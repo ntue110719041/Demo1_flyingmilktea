@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"FMT_girl","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"UI","traits":[],"initialLevel":1,"maxLevel":1,"name":"茶子","nickname":"茶子","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"FMT_girl","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"UI","traits":[],"initialLevel":1,"maxLevel":1,"name":"歐蕾","nickname":"歐蕾","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":3,"characterName":"FMT_girl","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"UI","traits":[],"initialLevel":1,"maxLevel":1,"name":"葛蕾塔","nickname":"葛蕾塔","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":2,"characterName":"FMT_girl","classId":4,"equips":[4,0,2,3,4],"faceIndex":3,"faceName":"UI","traits":[],"initialLevel":1,"maxLevel":1,"name":"蘿塞菈","nickname":"蘿塞菈","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":4,"characterName":"FMT_girl","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"你","nickname":"","note":"","profile":""}
+]
